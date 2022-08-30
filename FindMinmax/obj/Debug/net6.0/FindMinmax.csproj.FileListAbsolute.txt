@@ -1,0 +1,15 @@
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.csproj.AssemblyReference.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.AssemblyInfoInputs.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.AssemblyInfo.cs
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.csproj.CoreCompileInputs.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\bin\Debug\net6.0\FindMinmax.exe
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\bin\Debug\net6.0\FindMinmax.deps.json
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\bin\Debug\net6.0\FindMinmax.runtimeconfig.json
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\bin\Debug\net6.0\FindMinmax.dll
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\bin\Debug\net6.0\FindMinmax.pdb
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.dll
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\refint\FindMinmax.dll
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.pdb
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\FindMinmax.genruntimeconfig.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMinmax\obj\Debug\net6.0\ref\FindMinmax.dll

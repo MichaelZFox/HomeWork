@@ -1,0 +1,15 @@
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\bin\Debug\net6.0\FindMax.exe
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\bin\Debug\net6.0\FindMax.deps.json
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\bin\Debug\net6.0\FindMax.runtimeconfig.json
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\bin\Debug\net6.0\FindMax.dll
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\bin\Debug\net6.0\FindMax.pdb
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.csproj.AssemblyReference.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.AssemblyInfoInputs.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.AssemblyInfo.cs
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.csproj.CoreCompileInputs.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.dll
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\refint\FindMax.dll
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.pdb
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\FindMax.genruntimeconfig.cache
+C:\Users\MSZuev\Desktop\Обучение\VSC projests\Домашняя работа\FindMax\obj\Debug\net6.0\ref\FindMax.dll
