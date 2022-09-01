@@ -1,0 +1,15 @@
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.csproj.AssemblyReference.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.AssemblyInfoInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.AssemblyInfo.cs
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.csproj.CoreCompileInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/bin/Debug/net6.0/num_to_N
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/bin/Debug/net6.0/num_to_N.deps.json
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/bin/Debug/net6.0/num_to_N.runtimeconfig.json
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/bin/Debug/net6.0/num_to_N.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/bin/Debug/net6.0/num_to_N.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/refint/num_to_N.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/num_to_N.genruntimeconfig.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/Debug/net6.0/ref/num_to_N.dll

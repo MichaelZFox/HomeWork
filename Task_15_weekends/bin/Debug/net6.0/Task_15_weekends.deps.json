@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task_15_weekends/1.0.0": {
+        "runtime": {
+          "Task_15_weekends.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task_15_weekends/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

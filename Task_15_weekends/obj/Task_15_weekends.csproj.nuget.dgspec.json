@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/num_to_N.csproj": {}
+    "/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/Task_15_weekends.csproj": {}
   },
   "projects": {
-    "/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/num_to_N.csproj": {
+    "/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/Task_15_weekends.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/num_to_N.csproj",
-        "projectName": "num_to_N",
-        "projectPath": "/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/num_to_N.csproj",
+        "projectUniqueName": "/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/Task_15_weekends.csproj",
+        "projectName": "Task_15_weekends",
+        "projectPath": "/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/Task_15_weekends.csproj",
         "packagesPath": "/Users/mike/.nuget/packages/",
-        "outputPath": "/Users/mike/Documents/VS Code Projects/HomeWork/num_to_N/obj/",
+        "outputPath": "/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mike/.nuget/NuGet/NuGet.Config"

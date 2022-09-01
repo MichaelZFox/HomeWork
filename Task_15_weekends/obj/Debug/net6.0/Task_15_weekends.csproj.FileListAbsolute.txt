@@ -1,0 +1,15 @@
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/bin/Debug/net6.0/Task_15_weekends
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/bin/Debug/net6.0/Task_15_weekends.deps.json
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/bin/Debug/net6.0/Task_15_weekends.runtimeconfig.json
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/bin/Debug/net6.0/Task_15_weekends.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/bin/Debug/net6.0/Task_15_weekends.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.csproj.AssemblyReference.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.AssemblyInfoInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.AssemblyInfo.cs
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.csproj.CoreCompileInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/refint/Task_15_weekends.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/Task_15_weekends.genruntimeconfig.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_15_weekends/obj/Debug/net6.0/ref/Task_15_weekends.dll
