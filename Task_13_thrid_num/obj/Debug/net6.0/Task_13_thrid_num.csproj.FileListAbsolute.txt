@@ -1,0 +1,15 @@
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/bin/Debug/net6.0/Task_13_thrid_num
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/bin/Debug/net6.0/Task_13_thrid_num.deps.json
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/bin/Debug/net6.0/Task_13_thrid_num.runtimeconfig.json
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/bin/Debug/net6.0/Task_13_thrid_num.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/bin/Debug/net6.0/Task_13_thrid_num.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.csproj.AssemblyReference.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.AssemblyInfoInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.AssemblyInfo.cs
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.csproj.CoreCompileInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/refint/Task_13_thrid_num.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/Task_13_thrid_num.genruntimeconfig.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_13_thrid_num/obj/Debug/net6.0/ref/Task_13_thrid_num.dll
