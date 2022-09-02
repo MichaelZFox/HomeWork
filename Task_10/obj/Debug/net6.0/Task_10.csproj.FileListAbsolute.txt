@@ -1,0 +1,15 @@
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/bin/Debug/net6.0/Task_10
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/bin/Debug/net6.0/Task_10.deps.json
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/bin/Debug/net6.0/Task_10.runtimeconfig.json
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/bin/Debug/net6.0/Task_10.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/bin/Debug/net6.0/Task_10.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.csproj.AssemblyReference.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.AssemblyInfoInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.AssemblyInfo.cs
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.csproj.CoreCompileInputs.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/refint/Task_10.dll
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.pdb
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/Task_10.genruntimeconfig.cache
+/Users/mike/Documents/VS Code Projects/HomeWork/Task_10/obj/Debug/net6.0/ref/Task_10.dll
